@@ -18,11 +18,11 @@ implemented in several popular programming languages.
 
 ## Running an example
 
-1. Navigate to the example directory:<br/>
+1. Navigate to the example directory:  
 `cd git/github.com/clovyr/rust-example/examples/todomvc`
-2. Compile the project:<br/>
+2. Compile the project:  
 `cargo make build`
-3. Run the server:<br/>
+3. Run the server:  
 `cargo make serve`
 4. In a new browser tab, enter the url of your Clovyr Code instance
 prefixed by `8080-`
