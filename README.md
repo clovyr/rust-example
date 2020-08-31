@@ -19,7 +19,7 @@ implemented in several popular programming languages.
 ## Running an example
 
 1. Navigate to the example directory:  
-`cd git/github.com/clovyr/rust-example/examples/todomvc`
+`cd ~/git/github.com/clovyr/rust-example/examples/todomvc`
 2. Compile the project:  
 `cargo make build`
 3. Run the server:  
